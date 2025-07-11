@@ -164,4 +164,21 @@ nav{
     font-size: 50px;
     border: none;
 }
+.hello{
+   display: flex;
+   margin: 0 auto;
+   color: rgba(116, 106, 106, 0.404);
+   padding: 0px 0px ;
+}
+.nav-taitles{
+  color: orange;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 150px;
+}
+.Ready{
+   font-size: 2em;
+  
+}
  
