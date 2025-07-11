@@ -80,12 +80,16 @@ nav{
     text-align: center;
     color: #252432;
     font-size: 45px;
+   
+    
+ }
+ .secondery-bg{
     
  }
  .about-items{
     display: flex;
     justify-content: space-around;
-    background-color: #aba8f593;
+     background-color: #aba9e9;
     border-radius: 20px;
     
  }
